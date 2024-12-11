@@ -1,0 +1,22 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #343a40;
+}
+
+h2 {
+  color: #495057;
+}
+
+.container {
+  max-width: 600px;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 1rem;
+}

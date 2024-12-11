@@ -1,0 +1,20 @@
+/* /stylings/navbar.css */
+.custom-navbar {
+    background-color: pink !important; /* Set background to pink */
+    padding: 15px 0; /* Increase the padding to make it thicker */
+    font-weight: bold; /* Make the text bold */
+  }
+  
+  .custom-navbar .navbar-nav {
+    flex-direction: row !important; /* Ensure links are horizontal */
+  }
+  
+  .custom-navbar .navbar-nav .nav-link {
+    color: white !important; /* Change link text color to white */
+    margin-right: 15px; /* Add spacing between links */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .custom-navbar .navbar-toggler-icon {
+    background-color: white; /* Set toggle button icon color to white */
+  }
